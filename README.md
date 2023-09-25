@@ -1,2 +1,2 @@
 # bowlingGame
- simulate a n players bowling game
+ simulation of a n players bowling game
