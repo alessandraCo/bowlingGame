@@ -2,7 +2,7 @@
  simulation of a n players bowling game
  ---
  ## Demo
-![demo img 1](https://github.com/alessandraCo/bowlingGame/blob/main/bowling2.png)
+![demo img 1](https://github.com/alessandraCo/bowlingGame/blob/main/bowling1.png)
 ![demo img 2](https://github.com/alessandraCo/bowlingGame/blob/main/bowling2.png)
  ---
  ### how to run the project
